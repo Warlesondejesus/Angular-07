@@ -1,0 +1,18 @@
+
+.container {
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(51, 61, 77);
+  color:white;  
+  padding: 0;
+}
+
+.container .search {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  color:white;
+}
+
