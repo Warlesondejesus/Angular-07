@@ -12,26 +12,26 @@ Crie um arquivo README.md no seu repost√≥rio e nele coloque fotos da sua aplica√
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/60609913/162344484-395fc782-c5fc-4740-bdd4-8b8fa9d45a04.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/60609913/162344484-395fc782-c5fc-4740-bdd4-8b8fa9d45a04.png" width="700px" />
 </div>
 
 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/60609913/162345251-85bc4000-72df-4ee1-96a2-de88dc9678d0.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/60609913/162345251-85bc4000-72df-4ee1-96a2-de88dc9678d0.png" width="700px" />
 </div>
 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/60609913/162345312-65a655e0-7564-4fcb-9c42-96ffa5eef9d3.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/60609913/162345312-65a655e0-7564-4fcb-9c42-96ffa5eef9d3.png" width="700px" />
 </div>
 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/60609913/162345344-842c82ae-bd57-47a7-b809-acecf81de1df.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/60609913/162345344-842c82ae-bd57-47a7-b809-acecf81de1df.png" width="700px" />
 </div>
 
 <div align="center">
