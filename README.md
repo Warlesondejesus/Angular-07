@@ -49,4 +49,19 @@ Crie um arquivo README.md no seu repost√≥rio e nele coloque fotos da sua aplica√
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/60609913/162345479-7d9b3f83-edf4-4b3d-b65a-75ec4a6e0238.png" width="400px" />
+  
+  
+  
 </div>
+
+div align="center">
+
+<img src="https://user-images.githubusercontent.com/60609913/162542173-ced70a94-f332-4bde-8b75-923e447b5104.png" width="400px" />
+  
+  
+  
+</div>
+
+
+
+
